@@ -347,3 +347,5 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+
+LabDemos Week-1/LabDemos Week-1.vcxproj
